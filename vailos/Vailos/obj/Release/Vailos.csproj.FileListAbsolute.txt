@@ -1,0 +1,25 @@
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\obj\Release\Vailos.VailosMainWin.resources
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\obj\Release\Vailos.Properties.Resources.resources
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\obj\Release\Vailos.csproj.GenerateResource.Cache
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\bin\Release\Vailos.exe
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\bin\Release\Vailos.pdb
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\obj\Release\Vailos.exe
+C:\Documents and Settings\a476003\Local Settings\Application Data\Temporary Projects\Vailos\obj\Release\Vailos.pdb
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.exe
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.pdb
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\bin\Release\Vailos.exe
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\bin\Release\Vailos.pdb
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\ResolveAssemblyReference.cache
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.VailosMainWin.resources
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.Properties.Resources.resources
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.csproj.GenerateResource.Cache
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.VailosAbout.resources
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\bin\Release\Vailos.exe.config
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\bin\Release\Vailos.exe.manifest
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\bin\Release\Vailos.application
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.exe.manifest
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.application
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.Preferences.resources
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\bin\Release\doc.xml
+C:\jason\Visual Studio 2008\Projects\Vailos\Vailos\obj\Release\Vailos.renameBox.resources

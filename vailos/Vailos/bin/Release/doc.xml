@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vailos</name>
+    </assembly>
+    <members>
+        <member name="T:Vailos.VailosMainWin">
+            <summary>
+            Primary window for Vailos
+            </summary>
+        </member>
+        <member name="F:Vailos.VailosMainWin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosMainWin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Vailos.VailosMainWin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosMainWin.#ctor">
+            <summary>
+            Constructor. Calls settings, loads list view, gives timer interval, and hands
+            upDownTextBox and editTextBox itself.
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosMainWin.giveSearchBoxFocus">
+            <title>giveSearchBoxFocus</title>
+            <summary>
+            Used to hop focus up to search box, called by both the editTextBox when you press tab
+            in the first spot, and by the "Search or Create" menu command.
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosMainWin.searchBoxUpPressed">
+            <summary>
+            If there is an item in the list view above the currently selected item, move up
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosMainWin.searchBoxDownPressed">
+            <summary>
+            If there is an item in the list view below the current item, move down
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosMainWin.getSelectedFileName">
+            <summary>
+            Getter for name of current file
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Vailos.VailosMainWin.setSelectedFileName(System.String)">
+            <summary>
+            Setter for name of selected file
+            </summary>
+            <param name="inFileName"></param>
+        </member>
+        <member name="M:Vailos.VailosMainWin.getEditBoxText">
+            <summary>
+            Grab the editbox text to write to file
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Vailos.VailosAbout.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosAbout.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosAbout.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Vailos.Preferences">
+            <summary>
+            Preferences Dialog for Vailos
+            </summary>
+        </member>
+        <member name="F:Vailos.Preferences.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Vailos.Preferences.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Vailos.Preferences.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Vailos.Preferences.#ctor">
+            <summary>
+            Constructor for Vailos Preferences
+            </summary>
+        </member>
+        <member name="T:Vailos.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Vailos.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Vailos.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Vailos.renameBox">
+            <summary>
+            Form to handle renaming files
+            </summary>
+        </member>
+        <member name="M:Vailos.renameBox.#ctor">
+            <summary>
+            Constructor for renameBox
+            </summary>
+        </member>
+        <member name="M:Vailos.renameBox.setCaller(Vailos.VailosMainWin)">
+            <summary>
+            function to give renameBox the calling window
+            </summary>
+            <param name="callingWin"></param>
+            <returns></returns>
+        </member>
+        <member name="F:Vailos.renameBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Vailos.renameBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Vailos.renameBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Vailos.VailosListView.setCaller(Vailos.VailosMainWin)">
+            <summary>
+            Grab caller to run some of its functions
+            </summary>
+            <param name="inWin"></param>
+        </member>
+        <member name="M:Vailos.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>
