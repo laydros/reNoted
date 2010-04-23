@@ -1,0 +1,5 @@
+<vailosConfig>
+	<dirPath>"C:\jason\vailos"</dirPath>
+	<autoSave>true</autosave>
+	<autoSaveSeconds>20</autoSaveSeconds>
+</VailosConfig>
