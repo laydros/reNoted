@@ -1,0 +1,1 @@
+reNoted started from a desire for a Notational Velocity style note taking application for use on Windows.
